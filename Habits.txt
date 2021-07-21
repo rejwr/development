@@ -2,3 +2,7 @@
 1. Movement is important for the body, especially at work, where you sits most of the time.
 This includes in particular software engineers. In the long term, it is necessary to regularly
 stretch the body or create a desk setup similar to the Linus Torvalds office equipment.
+2. When developing a new part of the system, it is necessary to focus on the main functionality
+of the program and not get stuck when fixing a small bug. If we spend a lot of time correcting a small bug,
+the main goal of the sprint will not be finished. If we get stuck creating one program function,
+sometimes it's better to start over.
