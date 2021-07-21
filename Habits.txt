@@ -1,1 +1,4 @@
 7 Habits of Highly Effective Programmers
+1. Movement is important for the body, especially at work, where you sits most of the time.
+This includes in particular software engineers. In the long term, it is necessary to regularly
+stretch the body or create a desk setup similar to the Linus Torvalds office equipment.
