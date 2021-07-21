@@ -15,3 +15,5 @@ this by setting aside every day for half an hour after work to learn something n
 Scribe`s Oath by Ucle Bob.
 6. It is always necessary to communicate with whole team if we have encountered a problem. Therefore, there are
 daily standups in Agile to prevent failureS of the given task.
+7. The life of a programmer does not have to be lonely. It depends on the type of work and whether if you can
+can separate work time from you privite life.
