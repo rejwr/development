@@ -8,3 +8,5 @@ the main goal of the sprint will not be finished. If we get stuck creating one p
 sometimes it's better to start over.
 3. In programming is necessary to create code simply so that the code is also readable by other programmers.
 It is possible to create code using some design patterns.
+4. From my experience, this habit is important. If I'm constantly disturbed while programming by someone or
+through notifications from social networks, I can't concentrate on solving the problem.
