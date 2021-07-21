@@ -6,3 +6,5 @@ stretch the body or create a desk setup similar to the Linus Torvalds office equ
 of the program and not get stuck when fixing a small bug. If we spend a lot of time correcting a small bug,
 the main goal of the sprint will not be finished. If we get stuck creating one program function,
 sometimes it's better to start over.
+3. In programming is necessary to create code simply so that the code is also readable by other programmers.
+It is possible to create code using some design patterns.
