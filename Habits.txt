@@ -13,3 +13,5 @@ through notifications from social networks, I can't concentrate on solving the p
 5. This habit is especially important for a programmer to keep learning and improve his craft. We can achieve
 this by setting aside every day for half an hour after work to learn something new. This habit also belongs to
 Scribe`s Oath by Ucle Bob.
+6. It is always necessary to communicate with whole team if we have encountered a problem. Therefore, there are
+daily standups in Agile to prevent failureS of the given task.
